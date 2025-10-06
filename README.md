@@ -14,7 +14,7 @@ I'm a mathematician with a strong academic background and a passion for programm
 A project I'm actively developing, focused on innovative approaches in my areas of interest.
 
 ## Tagline
-Mathematician with a nice grade, passionate about programming, biology, Graph Theory, and Machine Learning.
+Mathematician, passionate about programming, biology, Graph Theory, and Machine Learning.
 
 ---
 
