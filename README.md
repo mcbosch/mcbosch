@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm mcbosch!
 
-<!--
-**mcbosch/mcbosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a mathematician with a strong academic background and a passion for programming, biology, Graph Theory, and Machine Learning. Currently, I'm seeking opportunities in scientific research, Machine Learning, or Data Science.
 
-Here are some ideas to get you started:
+## Skills
+- **Python**
+- **SQL**
+- **Mathematics**
+- **R**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorite Project
+### [magnetwork](https://github.com/mcbosch/magnetwork)
+A project I'm actively developing, focused on innovative approaches in my areas of interest.
+
+## Tagline
+Mathematician with a nice grade, passionate about programming, biology, Graph Theory, and Machine Learning.
+
+---
+
+Feel free to explore my repositories and connect if you share similar interests!
