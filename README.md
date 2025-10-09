@@ -13,9 +13,9 @@ I'm a mathematician with a strong academic background and a passion for programm
 
 ## Favorite Project
 ### [magnetwork](https://github.com/mcbosch/magnetwork)
-In the past year, I worked on a project about Graph Neural Networks to classify metabolic networks. To solve this problem, I needed to extend this algorithms for graphs with directed atributes; I've done this working with magnetic graphs. We observed the main problems that these algorithms have on a graph level, the convolution and the optimitzation algorithms among others. Moreover, there are some open questions on the spectra of these types of graphs. 
+In the past year, I worked on a project about Graph Neural Networks to classify metabolic networks. To solve this problem, I needed to extend these algorithms for graphs with directed atributes; I've done this working with magnetic graphs. Studying these graphs we observed some theorical aspects that wasn't solved.
 
-This project aims to extend the `NetworkX` package, to work easily with these kind of graphs, and be able to study the open questions and new approaches to classify these graphs. 
+This project aims to extend the `NetworkX` package, to have an easy tool to work with these kind of graphs, and be able to study the open questions and new approaches to classify graphs. 
 
 
 
