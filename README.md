@@ -5,6 +5,8 @@ I'm a mathematician with a strong academic background and a passion for programm
 
 Looking for new opportunities in **Data Science**, **Mathematics**, **Statistics**, **Machine Learning**, etc. 
 
+Visit my [personal webpage](https://mcbosch.github.io/index.html) were I will post project documentations and thougs.
+
 ## Skills
 - **Python**: `torch`, `scikit-learn`, `tensorflow`, `pandas`, `matplotlib.pyplot`, etc.
 - **SQL**
